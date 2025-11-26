@@ -17,7 +17,7 @@ This API provides a complete e-commerce backend solution with the following feat
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd atd-api
+cd atd-2025
 ```
 
 2. Install dependencies:
